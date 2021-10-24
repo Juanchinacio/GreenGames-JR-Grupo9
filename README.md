@@ -98,10 +98,16 @@ Pantalla de resultados.
 
 ![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla5.png)
 
-## Interfaz<a name="id7"></a>
+## Personajes<a name="id7"></a>
 
 Hay cuatro clases de personajes seleccionables, cada uno de ellos con atributos únicos:
 - El primer personaje posé todos los atributos básicos por lo que es el más versátil 
 - El tanque es un personaje más lento y con menos energía, pero posé la mayor cantidad de vida por lo que resiste varios golpes 
 - Ligero este es más rápido, pero no tiene grandes habilidades acrobáticas,  
-- El ultimo es la asesina, este tiene poca vitalidad, pero tiene una gran velocidad y habilidades acrobáticas pudiendo realizar muchos ataques en poco tiempo. 
+- El ultimo es la asesina, este tiene poca vitalidad, pero tiene una gran velocidad y habilidades acrobáticas pudiendo realizar muchos ataques en poco tiempo.
+
+## Mecánicas<a name="id8"></a>
+
+### Mecánicas generales del jugador<a name="id9"></a>
+
+### Mecánicas específicas del personaje<a name="id9"></a>
