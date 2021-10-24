@@ -74,4 +74,4 @@ Música burlona en pantalla final de resultados.
 
 
 ## Interfaz<a name="id6"></a>
-![Texto alternativo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/flujo%20Pantallas.png)
+![Flujo de pantalla](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/flujo%20Pantallas.png)
