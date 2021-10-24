@@ -147,7 +147,7 @@ Asesino
 - Fuerza de salto alta
 
 ### Mecánicas del modo de juego<a name="id11"></a>
-** Duelo ** 
+** Duelo **
 
 Dos equipos de N jugadores son enfrentados en lados opuestos. 
 
