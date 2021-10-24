@@ -109,5 +109,17 @@ Hay cuatro clases de personajes seleccionables, cada uno de ellos con atributos 
 ## Mecánicas<a name="id8"></a>
 
 ### Mecánicas generales del jugador<a name="id9"></a>
+Mecánicas básicas:
+- Todos los jugadores cuentan con dos puntos de vida, por lo que mueren de dos golpes, además contarán con 3 puntos de energía que se usarán para gestionar tanto los ataques, bloqueo con el escudo y la esquiva, cada punto de energía tarda 1 segundo en regenerarse.
+Mecánicas de movimiento:
+- Los jugadores podrán desplazarse con un movimiento lateral, realizar un salto con el que también podrán realizar movimiento lateral.
+- También se podrá realizar una esquiva hacia atrás, este movimiento consume 2 puntos de energía y posiciona al jugador rápidamente en un lugar más atrasado pudiendo ser dañado durante el proceso de la animación.
+Mecánicas de combate:
+-  Todos los personajes pueden realizar dos tipos de tipos de ataque, ambos consumen un punto de energía: 
 
-### Mecánicas específicas del personaje<a name="id9"></a>
+    - Ataque en barrido es un ataque de corta distancia, que tiene un rango de actuación vertical mayor 
+
+    - Ataque de estocada es un ataque de larga distancia, que tiene un rango de actuación vertical menor 
+
+- También todos los jugadores cuentan con un parry, si un jugador es atacado y realiza el parry en el momento justo antes de recibir el daño anula el daño y empuja al jugador atacante hacia atrás. Esta acción consume 1 punto de energía.
+### Mecánicas específicas del personaje<a name="id10"></a>
