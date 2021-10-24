@@ -74,3 +74,4 @@ Música burlona en pantalla final de resultados.
 
 
 ## Interfaz<a name="id6"></a>
+![Texto alternativo](/ImagenesGDD/flujo Pantallas.png)
