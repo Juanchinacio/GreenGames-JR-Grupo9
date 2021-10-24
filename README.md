@@ -10,8 +10,11 @@
 4. [Apartado visual](#id4)
 5. [Apartado sonoro](#id5)
 6. [Interfaz](#id6)
-7. [Mecánicas](#id7)
-8. [Mapas](#id8)
+7. [Personajes](#id7)
+8. [Mecánicas](#id8)
+    - Mecánicas generales del jugador
+    - Mecánicas específicas del personajes
+10. [Mapas](#id9)
 
 ## Historial de versiones<a name="id1"></a>
 Versión 1.0.0 
@@ -29,23 +32,23 @@ Microsoft Word
 Microsoft PowerPoint
 
 ## Controles<a name="id3"></a>
-###**Controles de movimiento.**
+- **Controles de movimiento.**
 
-Movimiento a derecha: Tecla D.
+    - Movimiento a derecha: Tecla D.
 
-Movimiento a izquierda: Tecla A.
+    - Movimiento a izquierda: Tecla A.
 
-Salto: Tecla W.
+    - Salto: Tecla W.
 
-Esquive: Tecla S. 
+    - Esquive: Tecla S. 
 
-###**Controles de combate.**
+- **Controles de combate.**
 
-Barrido: Tecla J.
+    - Barrido: Tecla J.
 
-Estocada: Tecla K.
+    - Estocada: Tecla K.
 
-Parry: Tecla [ ].
+    - Parry: Tecla [ ].
 
 ## Apartado visual<a name="id4"></a>
 Estilo píxel art.
@@ -55,16 +58,19 @@ Estilo píxel art.
 193 altura fija / [por especificar] px ancho del mapa.
 
 ## Apartado sonoro<a name="id5"></a>
-1. Música y sonidos retro y 8 bit.
+Música y sonidos retro y 8 bit.
 
-2. Música tranquila en pantalla principal y pantalla de menú.
+Música tranquila en pantalla principal y pantalla de menú.
 
-3. Música frenética en pantalla de selección de personaje.
+Música frenética en pantalla de selección de personaje.
 
-4. Música frenética en pantalla de juego (en función del mapa).
+Música frenética en pantalla de juego (en función del mapa).
 
-4.1. Mapa de restaurante.
+- Mapa de restaurante.
 
-4.2. Mapa bosque.
+- Mapa bosque.
 
-5.Música burlona en pantalla final de resultados.
+Música burlona en pantalla final de resultados.
+
+
+## Interfaz<a name="id6"></a>
