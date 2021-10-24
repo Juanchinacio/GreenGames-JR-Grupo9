@@ -18,13 +18,13 @@
 
 ## Historial de versiones<a name="id1"></a>
 Versión 1.0.0 
--Creación y división del documento por apartados 
+- Creación y división del documento por apartados 
 
 Versión 1.0.1 
--Desarrollo de los controles, apartado visual, personajes y mecánicas. 
+- Desarrollo de los controles, apartado visual, personajes y mecánicas. 
 
 Versión 1.0.2 
--Desarrollo de interfaces y apartado sonoro
+- Desarrollo de interfaces y apartado sonoro
 
 ## Tecnología utilizada<a name="id2"></a>
 Phaser 3
