@@ -12,9 +12,9 @@
 6. [Interfaz](#id6)
 7. [Personajes](#id7)
 8. [Mecánicas](#id8)
-    - Mecánicas generales del jugador
-    - Mecánicas específicas del personajes
-10. [Mapas](#id9)
+    - [Mecánicas generales del jugador](#id9)
+    - [Mecánicas específicas del personajes](#id10)
+10. [Mapas](#id11)
 
 ## Historial de versiones<a name="id1"></a>
 Versión 1.0.0 
