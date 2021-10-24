@@ -14,7 +14,8 @@
 8. [Mecánicas](#id8)
     - [Mecánicas generales del jugador](#id9)
     - [Mecánicas específicas del personajes](#id10)
-10. [Mapas](#id11)
+    - [Mecánicas del modo de juego](#id11)
+10. [Mapas](#id12)
 
 ## Historial de versiones<a name="id1"></a>
 Versión 1.0.0 
@@ -122,4 +123,48 @@ Mecánicas de combate:
     - Ataque de estocada es un ataque de larga distancia, que tiene un rango de actuación vertical menor 
 
 - También todos los jugadores cuentan con un parry, si un jugador es atacado y realiza el parry en el momento justo antes de recibir el daño anula el daño y empuja al jugador atacante hacia atrás. Esta acción consume 1 punto de energía.
+
 ### Mecánicas específicas del personaje<a name="id10"></a>
+Estándar
+- 2 unidades vida
+- Velocidad normal
+- 3 unidades energía
+- Fuerza de salto normal
+Tanque
+- 3 unidades vida
+- Velocidad lenta
+- 2 unidades energía
+- Fuerza de salto normal
+Ligero
+- 2 unidades vida
+- Velocidad rápida
+- 3 energía
+- Fuerza de salto baja
+Asesino
+- 1 unidades vida 
+- Velocidad rápida 
+- 4 unidades energía 
+- Fuerza de salto alta
+
+### Mecánicas del modo de juego<a name="id11"></a>
+** Duelo ** 
+
+Dos equipos de N jugadores son enfrentados en lados opuestos. 
+
+La partida acaba en un tiempo determinado y el equipo ganador será el que tanga mayor cantidad de puntos obtenidos. 
+
+Cada equipo tiene una zona de anotación en los extremos del mapa, cuando un jugador con marcas llega a la zona de anotación del equipo contrario consume dicha cantidad de marcas para obtener puntos para su equipo.  
+
+Las marcas se obtienen cuando un jugador mata a otro del equipo enemigo y son acumulables. 
+
+Cuando un jugador muere pierde todas las marcas que ha acumulado y reaparece con un tiempo de reaparición a N distancia del jugador rival, pero en su lado del campo.
+
+### Mapas<a name="id12"></a>
+Mapa 1: Ejemplo 
+- Descripción 
+- Objetivos 
+- Mecánicas que van a ser usadas 
+- Elementos que van a ser usados 
+- Estilo visual especifico del nivel (“Temática”) 
+- Estilo música especifica (“Temática”) 
+- ... 
