@@ -75,4 +75,25 @@ Música burlona en pantalla final de resultados.
 
 ## Interfaz<a name="id6"></a>
 Flujo de pantallas.
+
 ![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/flujo%20Pantallas.png)
+
+Pantalla de titulo.
+
+![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla1.png)
+
+Pantalla de menú.
+
+![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla2.png)
+
+Pantalla de selección de personaje.
+
+![Pantalla de selección de personaje](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla3.png)
+
+Pantalla de juego.
+
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla4.png)
+
+Pantalla de resultados.
+
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla5.png)
