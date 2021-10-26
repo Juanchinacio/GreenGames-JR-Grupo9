@@ -16,6 +16,8 @@
     - [Mecánicas específicas del personajes](#id10)
     - [Mecánicas del modo de juego](#id11)
 10. [Mapas](#id12)
+11. [Referencias](#id13)
+12. [Bibliografia](#id14)
 
 ## Historial de versiones<a name="id1"></a>
 Versión 1.0.0 
@@ -168,3 +170,43 @@ Mapa 1: Ejemplo
 - Estilo visual especifico del nivel (“Temática”) 
 - Estilo música especifica (“Temática”) 
 - ... 
+
+### Referencias<a name="id13"></a>
+Juegos de referencia: 
+- Nidhogg 
+- Head soccer 
+- Pato juego 
+
+### Bibliografía<a name="id14"></a>
+Libro de git: 
+
+- https://git-scm.com/book/en/v2 
+
+Tutorial de inicio en GitHub: 
+
+- https://guides.github.com/activities/hello-world/ 
+
+Aplicación de escritorio: 
+
+- https://desktop.github.com/ 
+
+Videotutoriales GitHub: 
+
+- https://www.youtube.com/githubguides 
+
+Documentación GitHub: 
+
+- https://docs.github.com/en 
+
+Game Design Document (GDD): 
+
+- https://www.gamasutra.com/view/feature/3384/the_anatomy_of_a_design_document_.php 
+
+- https://github.com/dsaltares/sion-tower/blob/master/doc/gdd/gdd.pdf   
+
+- http://manualdelgamedesigner.blogspot.com/2014/08/design-document-gdd.html  
+
+- http://manualdelgamedesigner.blogspot.com/2014/10/como-organizar-efectivamente-el.html 
+
+Level up guía para ser un gran diseñador de videojuegos (Scott Rogers) 
+
