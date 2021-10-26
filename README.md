@@ -1,5 +1,5 @@
 # Fight 4 The Bill
-## GreenGames-JR-Grupo9
+## GrimGames-JR-Grupo9
 
 ### Ultima actualización 24/10/2021
 
