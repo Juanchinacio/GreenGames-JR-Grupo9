@@ -161,14 +161,9 @@ Las marcas se obtienen cuando un jugador mata a otro del equipo enemigo y son ac
 Cuando un jugador muere pierde todas las marcas que ha acumulado y reaparece con un tiempo de reaparición a N distancia del jugador rival, pero en su lado del campo.
 
 ## 9.Mapas<a name="id12"></a>
-Mapa 1: Ejemplo 
-- Descripción 
-- Objetivos 
-- Mecánicas que van a ser usadas 
-- Elementos que van a ser usados 
-- Estilo visual especifico del nivel (“Temática”) 
-- Estilo música especifica (“Temática”) 
-- ... 
+El mapa principal sería de una taberna de estética medieval de ambiente animado y un mapa secundario de un bosque sombrío. 
+
+Ambos escenarios tendrían una música de fondo acorde con su estética y de estilo 8 bits.
 
 ## 10.Referencias<a name="id13"></a>
 Juegos de referencia: 
