@@ -19,7 +19,7 @@
 11. [Referencias](#id13)
 12. [Bibliografia](#id14)
 
-## Historial de versiones<a name="id1"></a>
+## 1.Historial de versiones<a name="id1"></a>
 Versión 1.0.0 
 - Creación y división del documento por apartados 
 
@@ -29,12 +29,11 @@ Versión 1.0.1
 Versión 1.0.2 
 - Desarrollo de interfaces y apartado sonoro
 
-## Tecnología utilizada<a name="id2"></a>
-Phaser 3
+## 2.Tecnología utilizada<a name="id2"></a>
 Microsoft Word
 Microsoft PowerPoint
 
-## Controles<a name="id3"></a>
+## 3.Controles<a name="id3"></a>
 - **Controles de movimiento.**
 
     - Movimiento a derecha: Tecla D.
@@ -53,14 +52,14 @@ Microsoft PowerPoint
 
     - Parry: Tecla [ ].
 
-## Apartado visual<a name="id4"></a>
+## 4.Apartado visual<a name="id4"></a>
 Estilo píxel art.
 
 32px altura fija / 32px ancho máximo de personajes.
 
 193 altura fija / [por especificar] px ancho del mapa.
 
-## Apartado sonoro<a name="id5"></a>
+## 5.Apartado sonoro<a name="id5"></a>
 Música y sonidos retro y 8 bit.
 
 Música tranquila en pantalla principal y pantalla de menú.
@@ -76,7 +75,7 @@ Música frenética en pantalla de juego (en función del mapa).
 Música burlona en pantalla final de resultados.
 
 
-## Interfaz<a name="id6"></a>
+## 6.Interfaz<a name="id6"></a>
 Flujo de pantallas.
 
 ![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/flujo%20Pantallas.png)
@@ -101,7 +100,7 @@ Pantalla de resultados.
 
 ![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla5.png)
 
-## Personajes<a name="id7"></a>
+## 7.Personajes<a name="id7"></a>
 
 Hay cuatro clases de personajes seleccionables, cada uno de ellos con atributos únicos:
 - El primer personaje posé todos los atributos básicos por lo que es el más versátil 
@@ -109,9 +108,9 @@ Hay cuatro clases de personajes seleccionables, cada uno de ellos con atributos 
 - Ligero este es más rápido, pero no tiene grandes habilidades acrobáticas,  
 - El ultimo es la asesina, este tiene poca vitalidad, pero tiene una gran velocidad y habilidades acrobáticas pudiendo realizar muchos ataques en poco tiempo.
 
-## Mecánicas<a name="id8"></a>
+## 8.Mecánicas<a name="id8"></a>
 
-### Mecánicas generales del jugador<a name="id9"></a>
+### 8.1.Mecánicas generales del jugador<a name="id9"></a>
 Mecánicas básicas:
 - Todos los jugadores cuentan con dos puntos de vida, por lo que mueren de dos golpes, además contarán con 3 puntos de energía que se usarán para gestionar tanto los ataques, bloqueo con el escudo y la esquiva, cada punto de energía tarda 1 segundo en regenerarse.
 Mecánicas de movimiento:
@@ -126,7 +125,7 @@ Mecánicas de combate:
 
 - También todos los jugadores cuentan con un parry, si un jugador es atacado y realiza el parry en el momento justo antes de recibir el daño anula el daño y empuja al jugador atacante hacia atrás. Esta acción consume 1 punto de energía.
 
-### Mecánicas específicas del personaje<a name="id10"></a>
+### 8.2.Mecánicas específicas del personaje<a name="id10"></a>
 Estándar
 - 2 unidades vida
 - Velocidad normal
@@ -148,7 +147,7 @@ Asesino
 - 4 unidades energía 
 - Fuerza de salto alta
 
-### Mecánicas del modo de juego<a name="id11"></a>
+### 8.3.Mecánicas del modo de juego<a name="id11"></a>
 ** Duelo **
 
 Dos equipos de N jugadores son enfrentados en lados opuestos. 
@@ -161,7 +160,7 @@ Las marcas se obtienen cuando un jugador mata a otro del equipo enemigo y son ac
 
 Cuando un jugador muere pierde todas las marcas que ha acumulado y reaparece con un tiempo de reaparición a N distancia del jugador rival, pero en su lado del campo.
 
-### Mapas<a name="id12"></a>
+## 9.Mapas<a name="id12"></a>
 Mapa 1: Ejemplo 
 - Descripción 
 - Objetivos 
@@ -171,13 +170,13 @@ Mapa 1: Ejemplo
 - Estilo música especifica (“Temática”) 
 - ... 
 
-### Referencias<a name="id13"></a>
+## 10.Referencias<a name="id13"></a>
 Juegos de referencia: 
 - Nidhogg 
 - Head soccer 
 - Pato juego 
 
-### Bibliografía<a name="id14"></a>
+## 11.Bibliografía<a name="id14"></a>
 Libro de git: 
 
 - https://git-scm.com/book/en/v2 
