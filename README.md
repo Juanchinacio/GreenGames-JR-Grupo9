@@ -1,7 +1,18 @@
 # Fight 4 The Bill
 ## GrimGames-JR-Grupo9
 
-### Ultima actualización 24/10/2021
+### Ultima actualización 26/10/2021
+Rubén Díaz Borrego, r.diazb.2019@alumnos.urjc.es, 53715372E, Cuenta gitHub -> mercaruby
+
+Daniel Hernández Tamayo, d.hernandezt.2018@alumnos.urjc.es, 09042182P, Cuenta gitHub -> staz131
+
+Juan Ignacio Castro Carmona, ji.castro.2019@alumnos.urjc.es, 76659656N, Cuenta gitHub -> Juanchinacio
+
+Carlos Villa Blanco, c.villa.2019@alumnos.urjc.es, 71473974W, Cuenta gitHub -> CarlosVillaBlanco
+
+Joaquín Joya Cacín, j.joya.2017@alumnos.urjc.es, 74740594R, Cuenta gitHub -> jojoca110
+
+Repositorio -> https://github.com/Juanchinacio/GreenGames-JR-Grupo9
 
 **Índice** 
 1. [Historial de versiones](#id1)
