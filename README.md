@@ -103,10 +103,14 @@ Pantalla de resultados.
 ## 7.Personajes<a name="id7"></a>
 
 Hay cuatro clases de personajes seleccionables, cada uno de ellos con atributos únicos:
-- El primer personaje posé todos los atributos básicos por lo que es el más versátil 
+- El primer personaje posé todos los atributos básicos por lo que es el más versátil
+![Personaje_1](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/p1.png)
 - El tanque es un personaje más lento y con menos energía, pero posé la mayor cantidad de vida por lo que resiste varios golpes 
+![Personaje_2](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/p2.png)
 - Ligero este es más rápido, pero no tiene grandes habilidades acrobáticas,  
+![Personaje_3](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/p3.png)
 - El ultimo es la asesina, este tiene poca vitalidad, pero tiene una gran velocidad y habilidades acrobáticas pudiendo realizar muchos ataques en poco tiempo.
+![Personaje_4](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/p4.png)
 
 ## 8.Mecánicas<a name="id8"></a>
 
