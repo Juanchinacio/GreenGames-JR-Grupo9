@@ -154,6 +154,8 @@ Cuando un jugador consigue matar a su adversario obtiene la iniciativa del comba
 
 Cuando un jugador muere pierde todos los puntos de su racha que ha acumulado y reaparece por su lateral del mapa en el borde de la cámara del jugador con la iniciativa.  
 
+Si hay empate se añade 60 segundos de prorroga. 
+
 ## 9.Mapas<a name="id12"></a>
 El mapa principal sería de una taberna de estética medieval de ambiente animado y un mapa secundario de un bosque sombrío. 
 
