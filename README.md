@@ -133,14 +133,15 @@ Los jugadores podrán desplazarse con un movimiento lateral, realizar un salto c
 Los personajes pueden realizar un ataque lateral en la dirección en la que miran. Los ataques cuentan con dos características longitud de ataque y enfriamiento de ataque, cuanto más alcance tiene el ataque más enfriamiento tiene el ataque. 
 
 ### 8.2.Mecánicas específicas del personaje<a name="id10"></a>
-8.2.1. Guerrero 
+Guerrero 
 Rango de ataque: x unidades 
 
-8.2.2. Berserker 
+Berserker 
 Rango de ataque: x unidades 
 
 ### 8.3.Mecánicas del modo de juego<a name="id11"></a>
-** Duelo **
+Duelo
+
 Dos jugadores son enfrentados en lados opuestos. 
 
 La partida acaba en un tiempo determinado por el mapa y el equipo ganador será el que tanga mayor cantidad de puntos obtenidos. 
