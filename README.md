@@ -67,7 +67,6 @@ Phaser 3
 
 ## 4.Apartado visual<a name="id4"></a>
 Estilo píxel art.
-
 64px altura fija / 64px ancho máximo de personajes.
 
 
