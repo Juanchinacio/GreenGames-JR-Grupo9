@@ -94,6 +94,7 @@ Flujo de pantallas.
 Pantalla de titulo.
 
 ![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla1.png)
+![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Men%C3%BA.jpeg)
 
 Pantalla de menú.
 
