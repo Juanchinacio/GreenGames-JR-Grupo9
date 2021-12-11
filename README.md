@@ -134,10 +134,10 @@ Los personajes pueden realizar un ataque lateral en la dirección en la que mira
 
 ### 8.2.Mecánicas específicas del personaje<a name="id10"></a>
 Guerrero 
-Rango de ataque: x unidades 
+Rango de ataque: 1 unidades 
 
 Berserker 
-Rango de ataque: x unidades 
+Rango de ataque: 2,5 unidades 
 
 ### 8.3.Mecánicas del modo de juego<a name="id11"></a>
 Duelo
