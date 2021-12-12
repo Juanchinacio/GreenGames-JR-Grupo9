@@ -209,3 +209,16 @@ Game Design Document (GDD):
 
 Level up guía para ser un gran diseñador de videojuegos (Scott Rogers) 
 
+Elementos sonoros: 
+
+-Ataque 
+
+https://freesound.org/people/Abyssmal/sounds/35213/   
+
+-Salto 
+
+https://freesound.org/people/acebrian/sounds/380471/  
+
+-Daño 
+
+https://freesound.org/people/micahlg/sounds/413179/  
