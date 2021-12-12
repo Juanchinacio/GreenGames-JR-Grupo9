@@ -89,27 +89,30 @@ Música burlona en pantalla final de resultados
 ## 6.Interfaz<a name="id6"></a>
 Flujo de pantallas.
 
-![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/flujo%20Pantallas.png)
+Esta imagen muestra la transición entre las distintas pantallas del juego 
+![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Flujo%20de%20pantallas%202.png)
 
 Pantalla de titulo.
 
-![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla1.png)
-
-Pantalla de menú.
-
-![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla2.png)
-
-Pantalla de selección de personaje.
-
-![Pantalla de selección de personaje](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla3.png)
+Esta pantalla muestra las opciones para el jugador, jugar una partida en local o ver los créditos 
+![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Menu%20Inicial.PNG)
 
 Pantalla de juego.
 
-![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla4.png)
+Esta es la pantalla del juego, en la parte superior se muestra el tiempo de partida restante y en los laterales se muestra los puntos del jugador y la racha de muertes. 
+![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Juego.jpeg)
 
-Pantalla de resultados.
+Pantalla de final.
 
-![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/pantalla5.png)
+En esta pantalla se muestra al ganador y al perdedor de la partida, el botón inferior nos permite regresar a la pantalla de título. 
+![Pantalla de selección de personaje](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Pantalla%20Final.PNG)
+
+Créditos.
+
+En esta pantalla se muestra quienes hemos desarrollado el juego y nuestro papel en el proyecto. 
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Creditos.png)
+
+
 
 ## 7.Personajes<a name="id7"></a>
 
@@ -117,14 +120,14 @@ Hay dos clases de personajes seleccionables, cada uno de ellos con característi
 - El Guerrero tiene una espada corta que le permite hacer ataques cortos, pero con más frecuencia. 
 ![Personaje_1](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/p1.png)
 - El Berserker tiene una pesada hacha que le permite hacer ataques largos, pero con menos frecuencia. 
-![Personaje_2](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/p2.png)
+![Personaje_2](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/MicrosoftTeams-image.png)
 
 
 ## 8.Mecánicas<a name="id8"></a>
 
 ### 8.1.Mecánicas generales del jugador<a name="id9"></a>
 - Mecánicas básicas: 
-Todos los jugadores cuentan con dos puntos de vida, por lo que mueren de dos golpes, además contarán con 3 puntos de energía que se usarán para gestionar tanto los ataques, bloqueo con el escudo y la esquiva, cada punto de energía tarda 1 segundo en regenerarse. 
+Todos los jugadores cuentan con un punto de vida, por lo que mueren de un golpe, y para ganar tendrán que obtener más puntos que el equipo enemigo 
 
 - Mecánicas de movimiento: 
 Los jugadores podrán desplazarse con un movimiento lateral, realizar un salto con el que también podrán realizar movimiento lateral. 
@@ -134,10 +137,10 @@ Los personajes pueden realizar un ataque lateral en la dirección en la que mira
 
 ### 8.2.Mecánicas específicas del personaje<a name="id10"></a>
 Guerrero 
-Rango de ataque: x unidades 
+Rango de ataque: 1 unidades 
 
 Berserker 
-Rango de ataque: x unidades 
+Rango de ataque: 2,5 unidades 
 
 ### 8.3.Mecánicas del modo de juego<a name="id11"></a>
 Duelo
@@ -153,6 +156,10 @@ Cada equipo tiene una zona de anotación en los extremos del mapa, cuando un jug
 Cuando un jugador consigue matar a su adversario obtiene la iniciativa del combate por lo que la cámara se centrara en dicho jugador. 
 
 Cuando un jugador muere pierde todos los puntos de su racha que ha acumulado y reaparece por su lateral del mapa en el borde de la cámara del jugador con la iniciativa.  
+
+Cuando un jugador obtiene puntos el jugador enemigo obtiene la iniciativa. 
+
+Si hay empate se añade 60 segundos de prórroga. 
 
 ## 9.Mapas<a name="id12"></a>
 El mapa principal sería de una taberna de estética medieval de ambiente animado y un mapa secundario de un bosque sombrío. 
@@ -202,3 +209,16 @@ Game Design Document (GDD):
 
 Level up guía para ser un gran diseñador de videojuegos (Scott Rogers) 
 
+Elementos sonoros: 
+
+-Ataque 
+
+https://freesound.org/people/Abyssmal/sounds/35213/   
+
+-Salto 
+
+https://freesound.org/people/acebrian/sounds/380471/  
+
+-Daño 
+
+https://freesound.org/people/micahlg/sounds/413179/  
