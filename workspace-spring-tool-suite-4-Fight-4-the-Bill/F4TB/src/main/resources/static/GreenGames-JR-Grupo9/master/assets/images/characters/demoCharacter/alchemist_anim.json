@@ -1,0 +1,52 @@
+{
+    "anims": [
+        {
+            "key": "alchemist_walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "alchemist",
+                    "frame": "alchemist_walk_1"
+                },
+                {
+                    "key": "alchemist",
+                    "frame": "alchemist_walk_3"
+                },
+                {
+                    "key": "alchemist",
+                    "frame": "alchemist_walk_2"
+                },
+                {
+                    "key": "alchemist",
+                    "frame": "alchemist_walk_4"
+                }
+            ]
+        },
+        {
+            "key": "alchemist_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "alchemist",
+                    "frame": "alchemist_idle_1"
+                },
+                {
+                    "key": "alchemist",
+                    "frame": "alchemist_idle_2"
+                },
+                {
+                    "key": "alchemist",
+                    "frame": "alchemist_idle_3"
+                },
+                {
+                    "key": "alchemist",
+                    "frame": "alchemist_idle_4"
+                }
+            ]
+        }
+    ]
+}
