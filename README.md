@@ -42,6 +42,9 @@ Versión 1.0.2
 
 Versión 1.0.3 
 - Desarrollo del juego en local 
+- 
+Versión 1.0.4
+- Desarrollo del juego implementando APIRest 
 
 ## 2.Tecnología utilizada<a name="id2"></a>
 Microsoft Word
@@ -51,18 +54,23 @@ Phaser 3
 ## 3.Controles<a name="id3"></a>
 - **Controles de movimiento.**
 
-    - Movimiento a derecha: Tecla D.
+    - Movimiento a derecha jugador 1: Tecla D
 
-    - Movimiento a izquierda: Tecla A.
+    - Movimiento a izquierda jugador 1: Tecla A
 
-    - Salto: Tecla W.
+    - Salto jugador 1: Tecla W
+   
+    - Movimiento a derecha jugador 2: Tecla >
 
-    - Esquive: Tecla S. 
+    - Movimiento a izquierda jugador 2: Tecla <
+    
+    - Salto jugador 2: Tecla ^ 
+
 
 - **Controles de combate.**
 
     - Ataque jugador 1: Tecla F 
-    - 
+    
     - Ataque jugador 2: Tecla M 
 
 ## 4.Apartado visual<a name="id4"></a>
@@ -90,7 +98,7 @@ Música burlona en pantalla final de resultados
 Flujo de pantallas.
 
 Esta imagen muestra la transición entre las distintas pantallas del juego 
-![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Flujo%20de%20pantallas%202.png)
+![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Flujo%20de%20pantallas%203.png)
 
 Pantalla de titulo.
 
@@ -111,6 +119,11 @@ Créditos.
 
 En esta pantalla se muestra quienes hemos desarrollado el juego y nuestro papel en el proyecto. 
 ![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Creditos.png)
+
+Tutorial.
+
+En esta pantalla se muestra los controles del juego. 
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/controles.png)
 
 
 
