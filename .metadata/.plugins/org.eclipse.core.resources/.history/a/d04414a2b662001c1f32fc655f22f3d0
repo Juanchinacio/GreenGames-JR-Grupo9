@@ -1,0 +1,47 @@
+
+
+var musicaMenu;
+export default class Menu extends Phaser.Scene {
+    constructor() {
+        super({ key: "Menu" })
+
+    }
+
+    
+
+    preload() {
+        // menu
+        this.load.image('menu', './master/assets/images/ui/portadaa.png');
+        this.load.audio('musicaMenu', './master/assets/audio/musica/menu.mp3');
+    }
+
+    create() {
+
+        this.add.image(400, 300, 'menu');
+        musicaMenu = this.sound.add('musicaMenu', {loop: true, volume: 0.5})
+        musicaMenu.play();
+    }
+
+    update() {
+        var key1 = this.input.keyboard.addKey(49);
+        var key2 = this.input.keyboard.addKey(50);
+        var key3 = this.input.keyboard.addKey(51);
+		
+		
+        if (key1.isDown) {
+            //this.scene.add('SceneA', new SceneA);
+            musicaMenu.stop();
+            this.scene.start('SceneA')
+        }
+        if (key2.isDown) {
+            //this.scene.add('SceneA', new SceneA);
+            musicaMenu.stop();
+            this.scene.start('Credits')
+        }
+        if (key3.isDown) {
+            //this.scene.add('SceneA', new SceneA);
+            musicaMenu.stop();
+            this.scene.start('Tutorial')
+        }
+    }
+}
