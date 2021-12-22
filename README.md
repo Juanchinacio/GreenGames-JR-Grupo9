@@ -26,9 +26,11 @@ Repositorio -> https://github.com/Juanchinacio/GreenGames-JR-Grupo9
     - [Mecánicas generales del jugador](#id9)
     - [Mecánicas específicas del personajes](#id10)
     - [Mecánicas del modo de juego](#id11)
-10. [Mapas](#id12)
-11. [Referencias](#id13)
-12. [Bibliografia](#id14)
+9. [Mapas](#id12)
+10. [Diagrama de clases](#id13)
+11. [Ejecución de aplicación](#id14)
+12. [Referencias](#id15)
+13. [Bibliografia](#id16)
 
 ## 1.Historial de versiones<a name="id1"></a>
 Versión 1.0.0 
@@ -103,7 +105,7 @@ Esta imagen muestra la transición entre las distintas pantallas del juego
 Pantalla de titulo.
 
 Esta pantalla muestra las opciones para el jugador, jugar una partida en local o ver los créditos 
-![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Menu%20Inicial.PNG)
+![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/menu%20v1.0.4.png)
 
 Pantalla de juego.
 
@@ -183,13 +185,30 @@ El escenario de la Taberna serán partidas en modo normal de 3:30 minutos
 
 El escenario del Bosque sombrío serán partidas en modo masacre de 5 minutos 
 
-## 10.Referencias<a name="id13"></a>
+## 10.Diagrama de clases y API Rest<a name="id13"></a>
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/diagrama%20de%20clases%20y%20api%20rest.png)
+
+## 11.Ejecución de aplicación<a name="id14"></a>
+
+Pasos:
+
+1-  Abrir el spring tool suite.
+
+2-  Seleccionar la carpeta del proyecto.
+
+3-  Darle a launch.
+
+4-  Click en F4TB -> Run As -> Spring Boot App.
+
+5-  Poner la IP en el navegador.
+
+## 12.Referencias<a name="id15"></a>
 Juegos de referencia: 
 - Nidhogg 
 - Head soccer 
 - Pato juego 
 
-## 11.Bibliografía<a name="id14"></a>
+## 13.Bibliografía<a name="id16"></a>
 Libro de git: 
 
 - https://git-scm.com/book/en/v2 
