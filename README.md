@@ -99,17 +99,22 @@ Música burlona en pantalla final de resultados
 Flujo de pantallas.
 
 Esta imagen muestra la transición entre las distintas pantallas del juego 
-![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/flujo%20de%20pantalla%20v%201.0.5..png)
+![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/flujo%20v1.0.5%202%C2%BA.png)
 
-Pantalla de titulo.
+Menú principal.
 
 Esta pantalla muestra las opciones para el jugador, jugar una partida en local, multijugador, ver los créditos, etc... 
-![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/men%C3%BA%20v1.0.5.jpeg)
+![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/menu%20v1.0.5%202%C2%BA.png)
 
-Pantalla de nombre.
+Pantalla de login.
 
-Esta es la pantalla del juego el usuario selecciona su nombre para jugar el multijugador online.
-![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/nombre%20v.1.0.5.jpeg)
+Esta es la pantalla del juego el usuario selecciona su cuenta ya creada.
+![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Login%202%C2%BA.png)
+
+Pantalla de register.
+
+Esta es la pantalla del juego el usuario crea su cuenta.
+![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/register%202%C2%BA.png)
 
 Pantalla de final.
 
@@ -124,12 +129,17 @@ En esta pantalla se muestra quienes hemos desarrollado el juego y nuestro papel 
 Tutorial.
 
 En esta pantalla se muestra los controles del juego. 
-![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/controles.png)
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Controles%20v1.0.5%202%C2%BA.jpeg)
+
+Ragnar.
+
+En esta pantalla se muestra la historia de Ragnar 
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/ragnar%20men%C3%BA.jpeg)
 
 Ranking.
 
 En esta pantalla se muestra el ranking de los jugadores. 
-![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/ranking%20v1.0.5.jpeg)
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Ranking%20v1.0.5%202%C2%BA%20.png)
 
 ## 7.Personajes<a name="id7"></a>
 
