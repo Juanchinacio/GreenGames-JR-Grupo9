@@ -1,7 +1,7 @@
 # Fight 4 The Bill
 ## GrimGames-JR-Grupo9
 
-### Ultima actualización 11/12/2021
+### Ultima actualización 17/1/2022
 Rubén Díaz Borrego, r.diazb.2019@alumnos.urjc.es, 53715372E, Cuenta gitHub -> mercaruby
 
 Daniel Hernández Tamayo, d.hernandezt.2018@alumnos.urjc.es, 09042182P, Cuenta gitHub -> staz131
