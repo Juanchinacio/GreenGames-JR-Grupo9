@@ -1,7 +1,7 @@
 # Fight 4 The Bill
 ## GrimGames-JR-Grupo9
 
-### Ultima actualización 11/12/2021
+### Ultima actualización 17/1/2022
 Rubén Díaz Borrego, r.diazb.2019@alumnos.urjc.es, 53715372E, Cuenta gitHub -> mercaruby
 
 Daniel Hernández Tamayo, d.hernandezt.2018@alumnos.urjc.es, 09042182P, Cuenta gitHub -> staz131
@@ -44,9 +44,12 @@ Versión 1.0.2
 
 Versión 1.0.3 
 - Desarrollo del juego en local 
-- 
+
 Versión 1.0.4
 - Desarrollo del juego implementando APIRest 
+
+Versión 1.0.5
+- Mejoras de la implementación del juego, desarrollo online y mejoras de APIRest
 
 ## 2.Tecnología utilizada<a name="id2"></a>
 Microsoft Word
@@ -87,11 +90,7 @@ Música tranquila en pantalla principal.
 
 Música frenética en pantalla de menú. 
 
-Música frenética en pantalla de juego (en función del mapa) 
-
-- Mapa de Taberna (música de taberna medieval) 
-
-- Mapa Bosque sombrío (música de tenebrosa) 
+Música frenética en pantalla de juego (música de taberna medieval) 
 
 Música burlona en pantalla final de resultados 
 
@@ -100,17 +99,22 @@ Música burlona en pantalla final de resultados
 Flujo de pantallas.
 
 Esta imagen muestra la transición entre las distintas pantallas del juego 
-![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Flujo%20de%20pantallas%203.png)
+![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/flujo%20v1.0.5%202%C2%BA.png)
 
-Pantalla de titulo.
+Menú principal.
 
-Esta pantalla muestra las opciones para el jugador, jugar una partida en local o ver los créditos 
-![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/menu%20v1.0.4.png)
+Esta pantalla muestra las opciones para el jugador, jugar una partida en local, multijugador, ver los créditos, etc... 
+![Pantalla de titulo](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/menu%20v1.0.5%202%C2%BA.png)
 
-Pantalla de juego.
+Pantalla de login.
 
-Esta es la pantalla del juego, en la parte superior se muestra el tiempo de partida restante y en los laterales se muestra los puntos del jugador y la racha de muertes. 
-![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Juego.jpeg)
+Esta es la pantalla del juego el usuario selecciona su cuenta ya creada.
+![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Login%202%C2%BA.png)
+
+Pantalla de register.
+
+Esta es la pantalla del juego el usuario crea su cuenta.
+![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/register%202%C2%BA.png)
 
 Pantalla de final.
 
@@ -125,15 +129,23 @@ En esta pantalla se muestra quienes hemos desarrollado el juego y nuestro papel 
 Tutorial.
 
 En esta pantalla se muestra los controles del juego. 
-![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/controles.png)
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Controles%20v1.0.5%202%C2%BA.jpeg)
 
+Ragnar.
 
+En esta pantalla se muestra la historia de Ragnar 
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/ragnar%20men%C3%BA.jpeg)
+
+Ranking.
+
+En esta pantalla se muestra el ranking de los jugadores. 
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Ranking%20v1.0.5%202%C2%BA%20.png)
 
 ## 7.Personajes<a name="id7"></a>
 
 Hay dos clases de personajes seleccionables, cada uno de ellos con características únicas:
 - El Guerrero tiene una espada corta que le permite hacer ataques cortos, pero con más frecuencia. 
-![Personaje_1](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/p1.png)
+![Personaje_1](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Jack.jpeg)
 - El Berserker tiene una pesada hacha que le permite hacer ataques largos, pero con menos frecuencia. 
 ![Personaje_2](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/MicrosoftTeams-image.png)
 
@@ -174,16 +186,16 @@ Cuando un jugador muere pierde todos los puntos de su racha que ha acumulado y r
 
 Cuando un jugador obtiene puntos el jugador enemigo obtiene la iniciativa. 
 
-Si hay empate se añade 60 segundos de prórroga. 
+Si hay empate se añade 60 segundos de prórroga y se cambia de mapa. 
 
 ## 9.Mapas<a name="id12"></a>
-El mapa principal sería de una taberna de estética medieval de ambiente animado y un mapa secundario de un bosque sombrío. 
+El mapa principal sería de una taberna de estética medieval de ambiente animado y un mapa secundario de un bosque sombrío, el de la prórroga. 
 
 Ambos escenarios tendrían una música de fondo acorde con su estética y de estilo 8 bits. 
 
 El escenario de la Taberna serán partidas en modo normal de 3:30 minutos  
 
-El escenario del Bosque sombrío serán partidas en modo masacre de 5 minutos 
+El escenario del Bosque sombrío serán partidas en modo masacre de 1 minuto para las prórrogaas 
 
 ## 10.Diagrama de clases y API Rest<a name="id13"></a>
 ![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/diagrama%20de%20clases%20y%20api%20rest.png)
