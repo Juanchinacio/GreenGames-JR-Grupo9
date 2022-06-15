@@ -214,13 +214,28 @@ Pasos:
 
 5-  Poner la IP en el navegador.
 
-## 12.Referencias<a name="id15"></a>
+## 12.Protocolo Websockets<a name="id15"></a>
+En el cliente se crea un JSON con la info que hay que pasar, se transforma a string para enviarlo al servidor.
+El servidor tiene varias funciones, AfterConexionEstablished se gestiona la info que se envia a los jugadores de la conexion de jugadores con un JSON,
+AfterConexionClosed se gestiona la info que se envia a los jugadores de desconexion de jugadores con un JSON,
+HandlertextMenssage gestiona el recevimiento de mensages y cuando los recive llama a SendOtherParticipants para reenviar el mensaje.
+
+Codigos gestionados desde el servidor
+codigo 22 desconexion
+codigo 33 conexion entre 2 jugadores
+codigo 2 activa la revancha
+codigo 667 gestion de muerte de jugador 1
+codigo 666 gestion de muerte de jugador 2
+codigo 11 llega meta de jugador 1
+codigo 10 llega meta de jugador 2
+
+## 13.Referencias<a name="id16"></a>
 Juegos de referencia: 
 - Nidhogg 
 - Head soccer 
 - Pato juego 
 
-## 13.Bibliografía<a name="id16"></a>
+## 14.Bibliografía<a name="id17"></a>
 Libro de git: 
 
 - https://git-scm.com/book/en/v2 
