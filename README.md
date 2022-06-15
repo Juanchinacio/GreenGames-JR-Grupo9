@@ -1,7 +1,7 @@
 # Fight 4 The Bill
 ## GrimGames-JR-Grupo9
 
-### Ultima actualización 17/1/2022
+### Ultima actualización 15/6/2022
 Rubén Díaz Borrego, r.diazb.2019@alumnos.urjc.es, 53715372E, Cuenta gitHub -> mercaruby
 
 Daniel Hernández Tamayo, d.hernandezt.2018@alumnos.urjc.es, 09042182P, Cuenta gitHub -> staz131
@@ -50,6 +50,9 @@ Versión 1.0.4
 
 Versión 1.0.5
 - Mejoras de la implementación del juego, desarrollo online y mejoras de APIRest
+
+Versión 1.0.6
+- Implementación y pulido del sistema cliente servidor, el multijugador.
 
 ## 2.Tecnología utilizada<a name="id2"></a>
 Microsoft Word
