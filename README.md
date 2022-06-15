@@ -220,14 +220,99 @@ El servidor tiene varias funciones, AfterConexionEstablished se gestiona la info
 AfterConexionClosed se gestiona la info que se envia a los jugadores de desconexion de jugadores con un JSON,
 HandlertextMenssage gestiona el recevimiento de mensages y cuando los recive llama a SendOtherParticipants para reenviar el mensaje.
 
-Codigos gestionados desde el servidor
-codigo 22 desconexion
-codigo 33 conexion entre 2 jugadores
-codigo 2 activa la revancha
-codigo 667 gestion de muerte de jugador 1
-codigo 666 gestion de muerte de jugador 2
-codigo 11 llega meta de jugador 1
-codigo 10 llega meta de jugador 2
+Mensajes gestionados desde el servidor:
+
+
+-Mensaje para seleccionar personaje e indicar si estoy listo: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+Atributos: 
+
+Codigo = 0 
+
+BoolListoPJ1 = (true/false) 
+
+SkinIndex = (true/false) 
+
+
+
+-Mensaje para enviar los inputs: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+Atributos: 
+
+Codigo = 1 
+
+Derecha = int (0/1) 
+
+Izquierda = (0/1) 
+
+Salto = (0/1) 
+
+Ataque = (0/1) 
+
+Baile = (0/1) 
+
+Idle = (0/1) 
+
+
+
+-Mensaje para revancha: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+Atributos: 
+
+Codigo = 2 
+
+Revancha = (true/false) 
+
+
+
+-Mensaje anotación Jugador 1: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+Atributos: 
+
+Codigo = 10 
+
+
+
+-Mensaje anotación Jugador 2: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+Atributos: 
+
+Codigo = 11
+
+
+
+-Mensaje desconexión jugador: (enviado por servidor a los clientes) 
+
+Atributos: 
+
+Codigo = 22 
+
+
+
+-Mensaje ambos jugadores conectados: (enviado por servidor a los clientes) 
+
+Atributos: 
+
+Codigo = 33 
+
+
+
+-Mensaje jugador 1 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+Atributos: 
+
+Codigo = 667 
+
+
+
+-Mensaje jugador 2 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+Atributos: 
+
+Codigo = 666 
+
+
+-La gestion del cliente depende de los mensajes recividos
 
 ## 13.Referencias<a name="id16"></a>
 Juegos de referencia: 
