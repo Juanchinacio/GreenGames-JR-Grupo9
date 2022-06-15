@@ -153,7 +153,7 @@ En esta pantalla se muestra el ranking de los jugadores.
 
 Lost Connection.
 
-En esta pantalla se muestra el ranking de los jugadores. 
+En esta pantalla se muestra cuando hay una perdida de conexión multijugador. 
 ![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/LostConnectionF.jpeg)
 
 ## 7.Personajes<a name="id7"></a>
