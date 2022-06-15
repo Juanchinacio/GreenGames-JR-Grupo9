@@ -244,7 +244,7 @@ HandlertextMenssage gestiona el recevimiento de mensages y cuando los recive lla
 Mensajes gestionados desde el servidor:
 
 
--Mensaje para seleccionar personaje e indicar si estoy listo: (enviado por cliente y reenviado por el servidor al otro cliente) 
+- Mensaje para seleccionar personaje e indicar si estoy listo: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
 Atributos: 
 
@@ -256,7 +256,7 @@ SkinIndex (indica la skin del jugador dependiendo de su valor)
 
 
 
--Mensaje para enviar los inputs: (enviado por cliente y reenviado por el servidor al otro cliente) 
+- Mensaje para enviar los inputs: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
 Atributos: 
 
@@ -276,7 +276,7 @@ Idle (int que puede ser 0 o 1, indica si el jugador no realiza otra acción cuan
 
 
 
--Mensaje para revancha: (enviado por cliente y reenviado por el servidor al otro cliente) 
+- Mensaje para revancha: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
 Atributos: 
 
@@ -286,7 +286,7 @@ Revancha (booleano que activa la revancha cuando es 1)
 
 
 
--Mensaje anotación Jugador 1: (enviado por cliente y reenviado por el servidor al otro cliente) 
+- Mensaje anotación Jugador 1: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
 Atributos: 
 
@@ -294,7 +294,7 @@ Codigo = 10
 
 
 
--Mensaje anotación Jugador 2: (enviado por cliente y reenviado por el servidor al otro cliente) 
+- Mensaje anotación Jugador 2: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
 Atributos: 
 
@@ -302,7 +302,7 @@ Codigo = 11
 
 
 
--Mensaje desconexión jugador: (enviado por servidor a los clientes) 
+- Mensaje desconexión jugador: (enviado por servidor a los clientes) 
 
 Atributos: 
 
@@ -310,7 +310,7 @@ Codigo = 22
 
 
 
--Mensaje ambos jugadores conectados: (enviado por servidor a los clientes) 
+- Mensaje ambos jugadores conectados: (enviado por servidor a los clientes) 
 
 Atributos: 
 
@@ -318,7 +318,7 @@ Codigo = 33
 
 
 
--Mensaje jugador 1 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
+- Mensaje jugador 1 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
 Atributos: 
 
@@ -326,14 +326,14 @@ Codigo = 667
 
 
 
--Mensaje jugador 2 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
+- Mensaje jugador 2 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
 Atributos: 
 
 Codigo = 666 
 
 
--La gestion del cliente depende de los mensajes recividos
+- La gestion del cliente depende de los mensajes recividos
 
 ## 13.Referencias<a name="id16"></a>
 Juegos de referencia: 
