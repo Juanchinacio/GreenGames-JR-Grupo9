@@ -247,9 +247,9 @@ Atributos:
 
 Codigo = 0 
 
-BoolListoPJ1 = (true/false) 
+BoolListoPJ1 (indica si el jugador esta listo o no dependiendo de su valor)
 
-SkinIndex = (true/false) 
+SkinIndex (indica la skin del jugador dependiendo de su valor) 
 
 
 
@@ -259,17 +259,17 @@ Atributos:
 
 Codigo = 1 
 
-Derecha = int (0/1) 
+Derecha (int que puede ser 0 o 1, indica si el jugador presiona derecha cuando es 1)
 
-Izquierda = (0/1) 
+Izquierda (int que puede ser 0 o 1, indica si el jugador presiona izquierda cuando es 1)
 
-Salto = (0/1) 
+Salto (int que puede ser 0 o 1, indica si el jugador presiona salto cuando es 1)
 
-Ataque = (0/1) 
+Ataque (int que puede ser 0 o 1, indica si el jugador presiona para atacar cuando es 1)
 
-Baile = (0/1) 
+Baile (int que puede ser 0 o 1, indica si el jugador presiona para bailar cuando es 1)
 
-Idle = (0/1) 
+Idle (int que puede ser 0 o 1, indica si el jugador no realiza otra acción cuando es 1)
 
 
 
@@ -279,7 +279,7 @@ Atributos:
 
 Codigo = 2 
 
-Revancha = (true/false) 
+Revancha (booleano que activa la revancha cuando es 1)
 
 
 
