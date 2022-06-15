@@ -99,7 +99,7 @@ Música burlona en pantalla final de resultados
 Flujo de pantallas.
 
 Esta imagen muestra la transición entre las distintas pantallas del juego 
-![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/flujo%20v1.0.5%202%C2%BA.png)
+![Flujo de pantallas](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/Flujo%20de%20pantallas.png)
 
 Menú principal.
 
@@ -109,17 +109,27 @@ Esta pantalla muestra las opciones para el jugador, jugar una partida en local, 
 Pantalla de login.
 
 Esta es la pantalla del juego el usuario selecciona su cuenta ya creada.
-![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Login%202%C2%BA.png)
+![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/LoginF.jpeg)
 
 Pantalla de register.
 
 Esta es la pantalla del juego el usuario crea su cuenta.
-![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/register%202%C2%BA.png)
+![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/RegisterF.jpeg)
 
-Pantalla de final.
+Pantalla de Lobby.
+
+Esta es la pantalla del juego los usuarios eligen sus personajes.
+![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/LobbyF.jpeg)
+
+Pantalla de final Multiplayer.
 
 En esta pantalla se muestra al ganador y al perdedor de la partida, el botón inferior nos permite regresar a la pantalla de título. 
 ![Pantalla de selección de personaje](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Pantalla%20Final.PNG)
+
+Pantalla de final Local.
+
+En esta pantalla se muestra al ganador y con los diferentes bontones navegamos entre pantallas.
+![Pantalla de selección de personaje](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/YouWinF.jpeg)
 
 Créditos.
 
@@ -140,6 +150,11 @@ Ranking.
 
 En esta pantalla se muestra el ranking de los jugadores. 
 ![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Ranking%20v1.0.5%202%C2%BA%20.png)
+
+Lost Connection.
+
+En esta pantalla se muestra el ranking de los jugadores. 
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/LostConnectionF.jpeg)
 
 ## 7.Personajes<a name="id7"></a>
 
@@ -197,8 +212,8 @@ El escenario de la Taberna serán partidas en modo normal de 3:30 minutos
 
 El escenario del Bosque sombrío serán partidas en modo masacre de 1 minuto para las prórrogaas 
 
-## 10.Diagrama de clases y API Rest<a name="id13"></a>
-![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/diagrama%20de%20clases%20y%20api%20rest.png)
+## 10.Diagrama de clases<a name="id13"></a>
+![Pantalla de juego ](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/UML.png)
 
 ## 11.Ejecución de aplicación<a name="id14"></a>
 
