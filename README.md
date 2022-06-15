@@ -127,12 +127,12 @@ Pantalla de Lobby.
 Esta es la pantalla del juego los usuarios eligen sus personajes.
 ![Pantalla de menú](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/LobbyF.jpeg)
 
-Pantalla de final Multiplayer.
+Pantalla de final Local.
 
 En esta pantalla se muestra al ganador y al perdedor de la partida, el botón inferior nos permite regresar a la pantalla de título. 
 ![Pantalla de selección de personaje](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/branch-Carlos/ImagenesGDD/Pantalla%20Final.PNG)
 
-Pantalla de final Local.
+Pantalla de final Multijugador.
 
 En esta pantalla se muestra al ganador y con los diferentes bontones navegamos entre pantallas.
 ![Pantalla de selección de personaje](https://github.com/Juanchinacio/GreenGames-JR-Grupo9/blob/main/ImagenesGDD/YouWinF.jpeg)
