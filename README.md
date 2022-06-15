@@ -244,96 +244,96 @@ HandlertextMenssage gestiona el recevimiento de mensages y cuando los recive lla
 Mensajes gestionados desde el servidor:
 
 
-- Mensaje para seleccionar personaje e indicar si estoy listo: (enviado por cliente y reenviado por el servidor al otro cliente) 
+Mensaje para seleccionar personaje e indicar si estoy listo: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
-Atributos: 
+- Atributos: 
 
-Codigo = 0 
+- Codigo = 0 
 
-BoolListoPJ1 (indica si el jugador esta listo o no dependiendo de su valor)
+- BoolListoPJ1 (indica si el jugador esta listo o no dependiendo de su valor)
 
-SkinIndex (indica la skin del jugador dependiendo de su valor) 
-
-
-
-- Mensaje para enviar los inputs: (enviado por cliente y reenviado por el servidor al otro cliente) 
-
-Atributos: 
-
-Codigo = 1 
-
-Derecha (int que puede ser 0 o 1, indica si el jugador presiona derecha cuando es 1)
-
-Izquierda (int que puede ser 0 o 1, indica si el jugador presiona izquierda cuando es 1)
-
-Salto (int que puede ser 0 o 1, indica si el jugador presiona salto cuando es 1)
-
-Ataque (int que puede ser 0 o 1, indica si el jugador presiona para atacar cuando es 1)
-
-Baile (int que puede ser 0 o 1, indica si el jugador presiona para bailar cuando es 1)
-
-Idle (int que puede ser 0 o 1, indica si el jugador no realiza otra acción cuando es 1)
+- SkinIndex (indica la skin del jugador dependiendo de su valor) 
 
 
 
-- Mensaje para revancha: (enviado por cliente y reenviado por el servidor al otro cliente) 
+Mensaje para enviar los inputs: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
-Atributos: 
+- Atributos: 
 
-Codigo = 2 
+- Codigo = 1 
 
-Revancha (booleano que activa la revancha cuando es 1)
+- Derecha (int que puede ser 0 o 1, indica si el jugador presiona derecha cuando es 1)
 
+- Izquierda (int que puede ser 0 o 1, indica si el jugador presiona izquierda cuando es 1)
 
+- Salto (int que puede ser 0 o 1, indica si el jugador presiona salto cuando es 1)
 
-- Mensaje anotación Jugador 1: (enviado por cliente y reenviado por el servidor al otro cliente) 
+- Ataque (int que puede ser 0 o 1, indica si el jugador presiona para atacar cuando es 1)
 
-Atributos: 
+- Baile (int que puede ser 0 o 1, indica si el jugador presiona para bailar cuando es 1)
 
-Codigo = 10 
-
-
-
-- Mensaje anotación Jugador 2: (enviado por cliente y reenviado por el servidor al otro cliente) 
-
-Atributos: 
-
-Codigo = 11
+- Idle (int que puede ser 0 o 1, indica si el jugador no realiza otra acción cuando es 1)
 
 
 
-- Mensaje desconexión jugador: (enviado por servidor a los clientes) 
+Mensaje para revancha: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
-Atributos: 
+- Atributos: 
 
-Codigo = 22 
+- Codigo = 2 
 
-
-
-- Mensaje ambos jugadores conectados: (enviado por servidor a los clientes) 
-
-Atributos: 
-
-Codigo = 33 
+- Revancha (booleano que activa la revancha cuando es 1)
 
 
 
-- Mensaje jugador 1 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
+Mensaje anotación Jugador 1: (enviado por cliente y reenviado por el servidor al otro cliente) 
 
-Atributos: 
+- Atributos: 
 
-Codigo = 667 
-
-
-
-- Mensaje jugador 2 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
-
-Atributos: 
-
-Codigo = 666 
+- Codigo = 10 
 
 
-- La gestion del cliente depende de los mensajes recividos
+
+Mensaje anotación Jugador 2: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+- Atributos: 
+
+- Codigo = 11
+
+
+
+Mensaje desconexión jugador: (enviado por servidor a los clientes) 
+
+- Atributos: 
+
+- Codigo = 22 
+
+
+
+Mensaje ambos jugadores conectados: (enviado por servidor a los clientes) 
+
+- Atributos: 
+
+- Codigo = 33 
+
+
+
+Mensaje jugador 1 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+- Atributos: 
+
+- Codigo = 667 
+
+
+
+Mensaje jugador 2 muerto: (enviado por cliente y reenviado por el servidor al otro cliente) 
+
+- Atributos: 
+
+- Codigo = 666 
+
+
+La gestion del cliente depende de los mensajes recividos
 
 ## 13.Referencias<a name="id16"></a>
 Juegos de referencia: 
